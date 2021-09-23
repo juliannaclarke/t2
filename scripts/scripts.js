@@ -4,8 +4,8 @@ function initializeApp(){
     displayMeme();
 }
 //new comment
+//new comment in the new branch
 //creating the merge conflict
-
 
 async function displayMeme(){
     try {
