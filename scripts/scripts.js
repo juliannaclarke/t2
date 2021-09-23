@@ -3,6 +3,7 @@ document.addEventListener("DOMContentLoaded", initializeApp);
 function initializeApp(){
     displayMeme();
 }
+//new comment
 
 async function displayMeme(){
     try {
