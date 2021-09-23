@@ -4,6 +4,7 @@ function initializeApp(){
     displayMeme();
 }
 //new comment
+//new comment in the new branch
 
 async function displayMeme(){
     try {
